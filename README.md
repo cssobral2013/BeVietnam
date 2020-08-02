@@ -1,4 +1,4 @@
-# The beVietnam Project
+# About the beVietnam Project
 
 We want to create a corporate typeface that is a perfect mixture between technology and humanism, the design must embrace our brand’s spirit, the youthful and modern voice of a tech company. More than that, we aim to design the first functional typeface that is completely made by Vietnamese designers and works seamlessly in any digital or non-digital environment.
 
@@ -11,8 +11,16 @@ be Vietnam is designed by the internal design team at beGroup Vietnam with Gabri
 ![Sample 1](samples/1.png)
 ![Sample 2](samples/2.png)
 
+# About Saigon Sans
+
+Is developed from and inspired by Be Vietnam fonts. It has additional weights, additional Latin support, and many more.
+
 ## Changelog
 
 ### Version 1.000
 
 - Make available on Github.
+
+### Saigon Sans version 1.000
+
+- Changes in Font Info.
